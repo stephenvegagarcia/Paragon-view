@@ -1,0 +1,2 @@
+# Paragon-view
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ced883e1d39a4fdabcf7f027f578e3f3)](https://app.codacy.com/gh/stephenvegagarcia/Paragon-view?utm_source=github.com&utm_medium=referral&utm_content=stephenvegagarcia/Paragon-view&utm_campaign=Badge_Grade)
